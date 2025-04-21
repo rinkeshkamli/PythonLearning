@@ -17,4 +17,8 @@ Task 1 : Factorial.py - Take number as input from user and Print Factor of that 
 Task 2 : Module.py - Import Math module and perform math operation such as Sqrt of Number, Natural logarithm 
                      (log base e) of the number and Sine of the number.
 
+Assignment 4
 
+Task 1 : ReadFile.py - Read the data for text file anf if file is not present then handle the error gracefully.
+
+Task 2 : WriteAndAppend.py - Write data to text file taking data from user and append to the same file.
