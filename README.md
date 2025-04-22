@@ -22,3 +22,9 @@ Assignment 4
 Task 1 : ReadFile.py - Read the data for text file anf if file is not present then handle the error gracefully.
 
 Task 2 : WriteAndAppend.py - Write data to text file taking data from user and append to the same file.
+
+Assignment 5
+
+Task 1 : DictinoryOfStudent.py - Create Dictinory of Student with marks and search for Student Marks.
+
+Task 2 : List.py - Create a list and perform List operation.
